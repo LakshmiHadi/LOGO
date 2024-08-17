@@ -23,11 +23,11 @@
                 </ul>
             </div>
             <div class="nav-button">
-                <button class="btn white-btn" id="loginBtn">Sign In</button>
-                <button class="btn" id="registerBtn">Sign Up</button>
+                <button class="btn white-btn" id="loginBtn" onclick="login()">Sign In</button>
+                <button class="btn" id="registerBtn" onclick="register()">Sign Up</button>
             </div>
             <div class="nav-menu-btn">
-    
+                <i class="bx bx-menu" onclick="myMenuFunction()"></i>
             </div>
         </nav>
 
@@ -106,6 +106,27 @@
             </div>
         </div>
     </div>
+
+    <script>
+        var a = document.getElementById("loginBtn");
+        var b = document.getElementBy("registerBtn");
+        var x = document.getElementById("login");
+        var y = document.getElementById("register");
+
+        function login() {
+            x.style.left = "4px";
+            y.style.right = "-520px";
+            a.className += "white-btn";
+            b.className = "btn";
+        }
+
+        function login() {
+            x.style.left = "-510px";
+            y.style.right = "5px";
+            a.className = "btn";
+            b.className += "white-btn";
+        }
+    </script>
 
 
     </div>
