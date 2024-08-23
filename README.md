@@ -19,4 +19,5 @@ A registered user is a user of a website, program, or other systems who has prev
 
 # image
 
-C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (16).png
+![Uploading Screenshot (16).png…]()
+
