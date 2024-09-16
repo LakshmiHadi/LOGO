@@ -15,6 +15,8 @@ Abstract logos
 Mascot logo
 Combination logo marks
 
-A registered user is a user of a website, program, or other systems who has previously registered. Registered users normally provide some sort of credentials (such as a username or e-mail address, and a password) to the system in order to prove their identity: this is known as logging in. Systems intended for use by the general public often allow any user to register simply by selecting a register or sign up function and providing these credentials for the first time. Registered users may be granted privileges beyond those granted to unregistered users.
+
+![image](https://github.com/user-attachments/assets/9da8982f-f9ef-43d7-9df6-b457e1397706)
+
 
 
