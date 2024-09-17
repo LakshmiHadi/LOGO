@@ -1,11 +1,8 @@
 # LOGO
 
-
-A logo (abbreviation of logotype;[1] from Ancient Greek λόγος (lógos) 'word, speech' and τύπος (túpos) 'mark, imprint') is a graphic mark, emblem, or symbol used to aid and promote public identification and recognition. It may be of an abstract or figurative design or to include the text of the name that it represents as in a wordmark.
-
+A login page is a place where users enter their credentials to access a website or app. A login page typically includes the following: 
 
 Table of contents
-
 
 Emblem logos
 Pictorial mark logos
